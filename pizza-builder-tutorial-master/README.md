@@ -1,4 +1,4 @@
-Go to the project directory and run: then you will see simple chat
+Go to the project directory and run: then you will see simple chat for building a PIZZA
 
 ### `npm install`
 
