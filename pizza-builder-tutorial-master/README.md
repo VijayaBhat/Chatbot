@@ -1,4 +1,4 @@
-Go to the project directory and run:
+Go to the project directory and run: then you will see simple chat
 
 ### `npm install`
 
